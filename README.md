@@ -5,7 +5,7 @@ Let Network support
 - Internet check
 - Check connection speed e., 2G, 3G, 4G
 
-| Single Type      | Multi Type  1   |
+| Internet ON      | Internt OFF   |
 |------------------|-----------------|
 | <img src="art/1.png" width="250"> | <img src="art/2.png" width="250"> |
 
